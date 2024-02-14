@@ -1,9 +1,19 @@
 # ICVIP
 The code to published paper "High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing", International Conference on Image and Video Processing (ICIVP 2020), Oct. 2020.
 
-Link: https://dl.acm.org/doi/abs/10.1145/3447450.3447489?casa_token=3HJQwOflle8AAAAA:sETr3nvqc8Upy0EHngquFdvy9Q9rGIozS9YUY-ASIU6CFXs_IZyxePxOtI2CFiHz5dcBg2Meq199tg
+The reference of this paper is following:
 
-**Correction**: 
+```
+@inproceedings{xu2020high,
+  title={High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing},
+  author={Xu, Jiayao and Peetakul, Jirayu and Li, Muchen and Zhou, Jinjia},
+  booktitle={Proceedings of the 2020 4th International Conference on Video and Image Processing},
+  pages={247--255},
+  year={2020}
+}
+```
+
+## Correction: 
 
 After conducting a comprehensive review of our published work, we have identified a typographical error in our reference to the measurement matrix. In the paper, we mistakenly labeled the matrix as the 'Hadamard matrix'; however, the correct term is the 'Walsh matrix,' as stated in Section 4, first paragraph.
 Upon discovering this error, we promptly contacted ICVIP to request a revision. Unfortunately, the published paper could not be modified.
